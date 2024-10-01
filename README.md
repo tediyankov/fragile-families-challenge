@@ -1,5 +1,7 @@
 # GPA Predictors in the Fragile Families Challenge
 
+![alt text](https://github.com/tediyankov/fragile-families-challenge/blob/main/unnamed.png?raw=true)
+
 This repository contains the code and methodologies used in the research paper titled "Combining Machine Learning and Social Theory to Discern GPA Predictors in the Fragile Families Challenge." The study aims to identify predictors of GPA using machine learning techniques while integrating social theory.
 
 ## Table of Contents
